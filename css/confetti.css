@@ -191,9 +191,9 @@ input {
   }
 }
 
-/* Stop confetti if box is checked */
+/* Pause and remove confetti if box is checked */
 input:checked + .confetti-container i {
-  /* display: none; */
+  display: none;
   animation-play-state: paused;
 }
 
