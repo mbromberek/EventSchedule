@@ -252,6 +252,9 @@ body {
 .sch_card_panel_myschedule{
   border-color: lightblue;
 }
+.sch_card_panel_photoshoot{
+  border-color: darkkhaki;
+}
 
 .selected_panel{
   background-color: lightgreen;

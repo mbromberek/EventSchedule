@@ -96,6 +96,28 @@
         "panel_type":"attendee"
       },
       {
+        "id":"201",
+        "title": "Danmei",
+        "room":"Front Garden",
+        "day":"Friday",
+        "start_time": "2:00pm",
+        "end_time":"3:00pm",
+        "panelists":"",
+        "description":"",
+        "panel_type":"photoshoot"
+      },
+      {
+        "id":"202",
+        "title": "League of Legends",
+        "room":"Front Water Feature",
+        "day":"Friday",
+        "start_time": "2:00pm",
+        "end_time":"3:00pm",
+        "panelists":"",
+        "description":"",
+        "panel_type":"photoshoot"
+      },
+      {
         "id":"9",
         "title": "Freya’s Protection: A Chain Mailing Journey",
         "room":"Mainstage! Coral C",
@@ -667,6 +689,18 @@
         "description":"Draw something huge and then shrink it down to make a key chain or magnet. While Supplies Last.",
         "panel_type":"family"
       },
+      {
+        "id":"213",
+        "title": "Legend of Zelda",
+        "room":"Front Water Feature",
+        "day":"Saturday",
+        "start_time": "12:00pm",
+        "end_time":"1:00pm",
+        "panelists":"",
+        "description":"",
+        "panel_type":"photoshoot"
+      },
+
       {
         "id":"60",
         "title": "Cosplaying Historically",
